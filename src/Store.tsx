@@ -1,9 +1,5 @@
 import * as React from 'react';
-
 import './Store.css';
-
-
-
 
 class Store extends React.Component {
   public render() {
@@ -20,12 +16,8 @@ class Store extends React.Component {
                   <li><a href="about.asp">About</a></li>
                 </ul>           
             </div>
-        
-          </nav>
-          
-        </header>
-        
-        
+          </nav>        
+        </header>       
       </div>
     );
   }
